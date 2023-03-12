@@ -7,5 +7,3 @@ RUN mkdir /ffmpeg && cd /ffmpeg && \
     rm /usr/local/bin/ffmpeg /usr/local/bin/ffprobe && \
     ln -s /ffmpeg/ffmpeg-master-latest-linux64-gpl/bin/ffmpeg /usr/local/bin/ffmpeg && \
     ln -s /ffmpeg/ffmpeg-master-latest-linux64-gpl/bin/ffprobe /usr/local/bin/ffprobe 
-
-
