@@ -1,0 +1,7 @@
+version: '3.3'
+
+services:
+  unmanic:
+    image: ghcr.io/xescure/animexescure-unmanic:latest
+    build: .
+ 
